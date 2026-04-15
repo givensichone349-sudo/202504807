@@ -1,0 +1,8 @@
+START
+INPUT number
+SET factorial = 1
+FOR i FROM 1 TO number
+  factorial = factorial * i
+  END FOR
+  PRINT FACTORIAL
+  END
